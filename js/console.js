@@ -2,7 +2,7 @@ var startupCode = "/*\n \
 	Welcome to JS Console!\n \
 \n \
 \n \
-	If you have any questions, feel free to email me at contact@ronakshah.net\n \
+	If you have any questions, feel free to email me at hello@pnple.org\n \
 \n \
 	If you have any feature requests, please submit an issue request on Github\n \
 */\n \
